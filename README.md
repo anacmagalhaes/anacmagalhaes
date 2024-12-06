@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Magalhães📱
 
-- 🔭 Desenvolvedora Mobile: Flutter
+- 🔭 Desenvolvedora Mobile
 - 🌱 Estudando: React Native
 - 📫 Contato: anamagalhaes.dev@gmail.com
 
