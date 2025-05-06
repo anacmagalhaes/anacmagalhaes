@@ -7,8 +7,9 @@ Procuro sempre melhorar meus conhecimentos em lógica, arquitetura de sistemas e
 
 Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projetos coletivos, onde também desenvolvo habilidades de trabalho em equipe, comunicação e colaboração.
 
-💻 Tecnologias com as quais tenho contato:
-React (aprendendo)
+### Tecnologias com as quais tenho contato:
+
+- React (aprendendo)
 
 - JavaScript (básico)
 
@@ -30,12 +31,14 @@ React (aprendendo)
 
 - PostgreSQL (aprendendo)
 
-🎯 Objetivo:
+### Objetivo:
+
 Transformar ideias em soluções reais e funcionais. Quero crescer na área de desenvolvimento, contribuindo em projetos, aprendendo com pessoas incríveis e sempre me desafiando a evoluir.
 
-📫 Onde me encontrar:
-E-mail: anamagalhaes.dev@gmail.com
+### Onde me encontrar:
 
-LinkedIn: Ana Carolina Magalhães
+- E-mail: anamagalhaes.dev@gmail.com
 
-GitHub: github.com/anacmagalhaes
+- LinkedIn: Ana Carolina Magalhães
+
+- GitHub: github.com/anacmagalhaes
