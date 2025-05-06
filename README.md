@@ -10,23 +10,25 @@ Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projeto
 💻 Tecnologias com as quais tenho contato:
 React (aprendendo)
 
-JavaScript / TypeScript (básico)
+- JavaScript (básico)
 
-Node.js / Express (iniciante)
+- Node.js / Express (iniciante)
 
-MongoDB (iniciante)
+- MongoDB (iniciante)
 
-Flutter & Dart (básico)
+- Flutter & Dart
 
-HTML, CSS
+- HTML, CSS
 
-Python, C (básico)
+- Python, C (básico)
 
-Git & GitHub
+- Git & GitHub
 
-APIs REST (básico)
+- APIs REST (básico)
 
-MySQL / PostgreSQL (aprendendo)
+- MySQL 
+
+- PostgreSQL (aprendendo)
 
 🎯 Objetivo:
 Transformar ideias em soluções reais e funcionais. Quero crescer na área de desenvolvimento, contribuindo em projetos, aprendendo com pessoas incríveis e sempre me desafiando a evoluir.
