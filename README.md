@@ -1,4 +1,4 @@
-## About me
+## About me 👩‍💻
 Estudante de Sistemas de Informação na Unimontes e apaixonada por tecnologia, principalmente por desenvolvimento mobile.
 
 Tenho experiência com desenvolvimento mobile e web em projetos acadêmicos e de extensão, especialmente com Flutter, e atualmente estou me aprofundando no ecossistema JavaScript — estudando React, Node.js e MongoDB.
@@ -7,7 +7,7 @@ Procuro sempre melhorar meus conhecimentos em lógica, arquitetura de sistemas e
 
 Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projetos coletivos, onde também desenvolvo habilidades de trabalho em equipe, comunicação e colaboração.
 
-### Tecnologias com as quais tenho contato:
+### 💻 Tecnologias com as quais tenho contato:
 
 - React (aprendendo)
 
@@ -31,11 +31,11 @@ Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projeto
 
 - PostgreSQL (aprendendo)
 
-### Objetivo:
+### 🎯 Objetivo:
 
 Transformar ideias em soluções reais e funcionais. Quero crescer na área de desenvolvimento, contribuindo em projetos, aprendendo com pessoas incríveis e sempre me desafiando a evoluir.
 
-### Onde me encontrar:
+### 📫 Onde me encontrar:
 
 - E-mail: anamagalhaes.dev@gmail.com
 
