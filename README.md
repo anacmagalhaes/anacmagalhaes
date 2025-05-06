@@ -15,21 +15,15 @@ Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projeto
 
 - Node.js / Express (iniciante)
 
-- MongoDB (iniciante)
-
 - Flutter & Dart
 
 - HTML, CSS
 
-- Python, C (básico)
+- C (básico)
 
 - Git & GitHub
 
-- APIs REST (básico)
-
 - MySQL 
-
-- PostgreSQL (aprendendo)
 
 ### 🎯 Objetivo:
 
