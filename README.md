@@ -1,4 +1,4 @@
-## About me 👩‍💻
+## Sobre mim 👩‍💻
 Estudante de Sistemas de Informação na Unimontes e apaixonada por tecnologia, principalmente por desenvolvimento mobile.
 
 Tenho experiência com desenvolvimento mobile e web em projetos acadêmicos e de extensão, especialmente com Flutter, e atualmente estou me aprofundando no ecossistema JavaScript — estudando React, Node.js e MongoDB.
