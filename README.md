@@ -31,8 +31,6 @@ Transformar ideias em soluções reais e funcionais. Quero crescer na área de d
 
 ### 📫 Onde me encontrar:
 
-- E-mail: anamagalhaes.dev@gmail.com
-
 - LinkedIn: Ana Carolina Magalhães
 
 - GitHub: github.com/anacmagalhaes
