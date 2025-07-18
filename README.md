@@ -7,28 +7,6 @@ Procuro sempre melhorar meus conhecimentos em lógica, arquitetura de sistemas e
 
 Participo de iniciativas e eventos acadêmicos como a Escola de Verão e projetos coletivos, onde também desenvolvo habilidades de trabalho em equipe, comunicação e colaboração.
 
-### 💻 Tecnologias com as quais tenho contato:
-
-- React (aprendendo)
-
-- JavaScript (básico)
-
-- Node.js / Express (iniciante)
-
-- Flutter & Dart
-
-- HTML, CSS
-
-- C (básico)
-
-- Git & GitHub
-
-- MySQL 
-
-### 🎯 Objetivo:
-
-Transformar ideias em soluções reais e funcionais. Quero crescer na área de desenvolvimento, contribuindo em projetos, aprendendo com pessoas incríveis e sempre me desafiando a evoluir.
-
 ### 📫 Onde me encontrar:
 
 - LinkedIn: Ana Carolina Magalhães
