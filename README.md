@@ -81,10 +81,3 @@ Ambos os projetos demonstram minha habilidade em criar soluções digitais otimi
 </div>
 
 ---
-
-<div style="text-align: center;" align="center">
-    <h1>GitHub Stats</h1>
-    <br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoSDias&hide_title=true&theme=moltack&show_icons=true&include_all_commits=false&locale=pt-br"/>
-    <img height="160em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anacmagalhaes&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
-</div>
